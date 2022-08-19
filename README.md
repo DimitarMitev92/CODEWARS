@@ -1,2 +1,2 @@
 # CODEWARS
-solved tasks from CODEWARS.
+Solved tasks from CODEWARS.
